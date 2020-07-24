@@ -4,12 +4,6 @@
 
 ## Installation
 Add this to your plugin manager like such:
-For my version:
-```vim
-Plug 'NlGHT/vim-eel2'
-```
-
-Upstream:
 ```vim
 Plug 'TristanCrawford/vim-eel2'
 ```
